@@ -20,9 +20,9 @@ Placez-vous au niveau du répertoire de la racine de l'application "coding_facto
 
 ## Versions
 
-**Dernière version stable :** 1.1
+**Dernière version stable :** 1.0
 
-**Dernière version :** 1.1
+**Dernière version :** 1.0
 
 ## Board
 
