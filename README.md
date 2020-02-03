@@ -1,4 +1,4 @@
-# cf_shell
+# coding_factory_archi_linux
 
 Ce projet à été crée dans le cadre du cursus de deuxième année à la Coding Factory.
 
@@ -7,9 +7,9 @@ Ce projet à été crée dans le cadre du cursus de deuxième année à la Codin
 
 Ouvrez votre terminal
 
-Placez-vous au niveau du répertoire de la racine de l'application "cf_shell"
+Placez-vous au niveau du répertoire de la racine de l'application "coding_factory_archi_linux"
 
-``git clone https://github.com/CedricLphn/cf_shell.git``
+``git clone https://github.com/Flow2dot0/coding_factory_archi_linux.git``
 
 ## Run
 
